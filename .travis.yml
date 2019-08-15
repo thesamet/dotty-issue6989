@@ -1,0 +1,5 @@
+language: scala
+jdk: oraclejdk11
+
+scala:
+- 0.17.0-RC1
